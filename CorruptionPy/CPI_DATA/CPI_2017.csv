@@ -1,4 +1,4 @@
-﻿Corruption Perceptions Index 2017: Global Scores ,,,,,,,,
+Corruption Perceptions Index 2017: Global Scores ,,,,,,,,
 ,,,,,,,,
 Country,ISO3,Region,CPI Score 2017,Rank ,standard error,Lower CI ,Upper CI,number of sources
 New Zealand,NZL,AP,89,1,2.4,85,93,8
@@ -104,7 +104,7 @@ Peru,PER,AME,37,96,3.35,32,42,8
 Thailand,THA,AP,37,96,2.03,34,40,9
 Zambia,ZMB,SSA,37,96,2.46,33,41,9
 Bahrain,BHR,MENA,36,103,1.81,33,39,4
-Côte D'Ivoire,CIV,SSA,36,103,2.03,33,39,8
+C�te D'Ivoire,CIV,SSA,36,103,2.03,33,39,8
 Mongolia,MNG,AP,36,103,1.4,34,38,9
 Tanzania,TZA,SSA,36,103,1.55,33,39,9
 Armenia,ARM,ECA,35,107,3.79,29,41,6
@@ -181,5 +181,3 @@ Afghanistan,AFG,AP,15,177,1.39,13,17,5
 Syria,SYR,MENA,14,178,1.93,11,17,5
 South Sudan,SSD,SSA,12,179,1.56,9,15,5
 Somalia,SOM,SSA,9,180,2.26,5,13,5
-,,,,,,,,
-GLOBAL AVARAGE,,,43.07,,,,,
