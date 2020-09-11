@@ -1,181 +1,151 @@
-,Country,Country Code,CPI,Rank
-0,Denmark,DNK,87,1
-1,New Zealand,NZL,87,1
-2,Finland,FIN,86,3
-3,Singapore,SGP,85,4
-4,Sweden,SWE,85,4
-5,Switzerland,CHE,85,4
-6,Norway,NOR,84,7
-7,Netherlands,NLD,82,8
-8,Germany,DEU,80,9
-9,Luxembourg,LUX,80,9
-10,Iceland,ISL,78,11
-11,Australia,AUS,77,12
-12,Austria,AUT,77,12
-13,Canada,CAN,77,12
-14,United Kingdom,GBR,77,12
-15,Hong Kong,HKG,76,16
-16,Belgium,BEL,75,17
-17,Estonia,EST,74,18
-18,Ireland,IRL,74,18
-19,Japan,JPN,73,20
-20,United Arab Emirates,ARE,71,21
-21,Uruguay,URY,71,21
-22,France,FRA,69,23
-23,United States of America,USA,69,23
-24,Bhutan,BTN,68,25
-25,Chile,CHL,67,26
-26,Seychelles,SYC,66,27
-27,Taiwan,TWN,65,28
-28,Bahamas,BHS,64,29
-29,Barbados,BRB,62,30
-30,Portugal,PRT,62,30
-31,Qatar,QAT,62,30
-32,Spain,ESP,62,30
-33,Botswana,BWA,61,34
-34,Brunei Darussalam,BRN,60,35
-35,Israel,ISR,60,35
-36,Lithuania,LTU,60,35
-37,Slovenia,SVN,60,35
-38,"Korea, South",KOR,59,39
-39,Saint Vincent and the Grenadines,VCT,59,39
-40,Cabo Verde,CPV,58,41
-41,Cyprus,CYP,58,41
-42,Poland,POL,58,41
-43,Costa Rica,CRI,56,44
-44,Czech Republic,CZE,56,44
-45,Georgia,GEO,56,44
-46,Latvia,LVA,56,44
-47,Dominica,DMA,55,48
-48,Saint Lucia,LCA,55,48
-49,Malta,MLT,54,50
-50,Grenada,GRD,53,51
-51,Italy,ITA,53,51
-52,Malaysia,MYS,53,51
-53,Rwanda,RWA,53,51
-54,Saudi Arabia,SAU,53,51
-55,Mauritius,MUS,52,56
-56,Namibia,NAM,52,56
-57,Oman,OMN,52,56
-58,Slovakia,SVK,50,59
-59,Cuba,CUB,48,60
-60,Greece,GRC,48,60
-61,Jordan,JOR,48,60
-62,Croatia,HRV,47,63
-63,Sao Tome and Principe,STP,46,64
-64,Vanuatu,VUT,46,64
-65,Argentina,ARG,45,66
-66,Belarus,BLR,45,66
-67,Montenegro,MNE,45,66
-68,Senegal,SEN,45,66
-69,Hungary,HUN,44,70
-70,Romania,ROU,44,70
-71,South Africa,ZAF,44,70
-72,Suriname,SUR,44,70
-73,Bulgaria,BGR,43,74
-74,Jamaica,JAM,43,74
-75,Tunisia,TUN,43,74
-76,Armenia,ARM,42,77
-77,Bahrain,BHR,42,77
-78,Solomon Islands,SLB,42,77
-79,Benin,BEN,41,80
-80,China,CHN,41,80
-81,Ghana,GHA,41,80
-82,India,IND,41,80
-83,Morocco,MAR,41,80
-84,Burkina Faso,BFA,40,85
-85,Guyana,GUY,40,85
-86,Indonesia,IDN,40,85
-87,Kuwait,KWT,40,85
-88,Lesotho,LSO,40,85
-89,Trinidad and Tobago,TTO,40,85
-90,Serbia,SRB,39,91
-91,Turkey,TUR,39,91
-92,Ecuador,ECU,38,93
-93,Sri Lanka,LKA,38,93
-94,Timor-Leste,TLS,38,93
-95,Colombia,COL,37,96
-96,Ethiopia,ETH,37,96
-97,Gambia,GMB,37,96
-98,Tanzania,TZA,37,96
-99,Vietnam,VNM,37,96
-100,Bosnia and Herzegovina,BIH,36,101
-101,Kosovo,KSV,36,101
-102,Panama,PAN,36,101
-103,Peru,PER,36,101
-104,Thailand,THA,36,101
-105,Albania,ALB,35,106
-106,Algeria,DZA,35,106
-107,Brazil,BRA,35,106
-108,Cote d'Ivoire,CIV,35,106
-109,Egypt,EGY,35,106
-110,North Macedonia,MKD,35,106
-111,Mongolia,MNG,35,106
-112,El Salvador,SLV,34,113
-113,Kazakhstan,KAZ,34,113
-114,Nepal,NPL,34,113
-115,Philippines,PHL,34,113
-116,Eswatini,SWZ,34,113
-117,Zambia,ZMB,34,113
-118,Sierra Leone,SLE,33,119
-119,Moldova,MDA,32,120
-120,Niger,NER,32,120
-121,Pakistan,PAK,32,120
-122,Bolivia,BOL,31,123
-123,Gabon,GAB,31,123
-124,Malawi,MWI,31,123
-125,Azerbaijan,AZE,30,126
-126,Djibouti,DJI,30,126
-127,Kyrgyzstan,KGZ,30,126
-128,Ukraine,UKR,30,126
-129,Guinea,GIN,29,130
-130,Laos,LAO,29,130
-131,Maldives,MDV,29,130
-132,Mali,MLI,29,130
-133,Mexico,MEX,29,130
-134,Myanmar,MMR,29,130
-135,Togo,TGO,29,130
-136,Dominican Republic,DOM,28,137
-137,Kenya,KEN,28,137
-138,Lebanon,LBN,28,137
-139,Liberia,LBR,28,137
-140,Mauritania,MRT,28,137
-141,Papua New Guinea,PNG,28,137
-142,Paraguay,PRY,28,137
-143,Russia,RUS,28,137
-144,Uganda,UGA,28,137
-145,Angola,AGO,26,146
-146,Bangladesh,BGD,26,146
-147,Guatemala,GTM,26,146
-148,Honduras,HND,26,146
-149,Iran,IRN,26,146
-150,Mozambique,MOZ,26,146
-151,Nigeria,NGA,26,146
-152,Cameroon,CMR,25,153
-153,Central African Republic,CAF,25,153
-154,Comoros,COM,25,153
-155,Tajikistan,TJK,25,153
-156,Uzbekistan,UZB,25,153
-157,Madagascar,MDG,24,158
-158,Zimbabwe,ZWE,24,158
-159,Eritrea,ERI,23,160
-160,Nicaragua,NIC,22,161
-161,Cambodia,KHM,20,162
-162,Chad,TCD,20,162
-163,Iraq,IRQ,20,162
-164,Burundi,BDI,19,165
-165,Congo,COG,19,165
-166,Turkmenistan,TKM,19,165
-167,Democratic Republic of the Congo,COD,18,168
-168,Guinea Bissau,GNB,18,168
-169,Haiti,HTI,18,168
-170,Libya,LBY,18,168
-171,"Korea, North",PRK,17,172
-172,Afghanistan,AFG,16,173
-173,Equatorial Guinea,GNQ,16,173
-174,Sudan,SDN,16,173
-175,Venezuela,VEN,16,173
-176,Yemen,YEM,15,177
-177,Syria,SYR,13,178
-178,South Sudan,SSD,12,179
-179,Somalia,SOM,9,180
+,iso,Score 2005,Score 2010,Score 2015,Score 2017
+0,ISL,9.7,8.5,7.9,7.7
+1,FIN,9.6,9.2,9.0,8.5
+2,NZL,9.6,9.3,9.1,8.9
+3,DNK,9.5,9.3,9.1,8.8
+4,SGP,9.4,9.3,8.5,8.4
+5,SWE,9.2,9.2,8.9,8.4
+6,CHE,9.1,8.7,8.6,8.5
+7,NOR,8.9,8.6,8.8,8.5
+8,AUS,8.8,8.7,7.9,7.7
+9,AUT,8.7,7.9,7.6,7.5
+10,NLD,8.6,8.8,8.4,8.2
+11,GBR,8.6,7.6,8.1,8.2
+12,LUX,8.5,8.5,8.5,8.2
+13,CAN,8.4,8.9,8.3,8.2
+14,HKG,8.3,8.4,7.5,7.7
+15,DEU,8.2,7.9,8.1,8.1
+16,USA,7.6,7.1,7.6,7.5
+17,FRA,7.5,6.8,7.0,7.0
+18,BEL,7.4,7.1,7.7,7.5
+19,IRL,7.4,8.0,7.5,7.4
+20,CHL,7.3,7.2,7.0,6.7
+21,JPN,7.3,7.8,7.5,7.3
+22,ESP,7.0,6.1,5.8,5.7
+23,MLT,6.6,5.6,6.0,5.6
+24,PRT,6.5,6.0,6.4,6.3
+25,EST,6.4,6.5,7.0,7.1
+26,ISR,6.3,6.1,6.1,6.2
+27,OMN,6.3,5.3,4.5,4.4
+28,ARE,6.2,6.3,7.0,7.1
+29,SVN,6.1,6.4,6.0,6.1
+30,BWA,5.9,5.8,6.3,6.1
+31,QAT,5.9,7.7,7.1,6.3
+32,TWN,5.9,5.8,6.2,6.3
+33,URY,5.9,6.9,7.4,7.0
+34,BHR,5.8,4.9,5.1,3.6
+35,CYP,5.7,6.3,6.1,5.7
+36,JOR,5.7,4.7,5.3,4.8
+37,MYS,5.1,4.4,5.0,4.7
+38,HUN,5.0,4.7,5.1,4.5
+39,ITA,5.0,3.9,4.4,5.0
+40,KOR,5.0,5.4,5.4,5.4
+41,TUN,4.9,4.3,3.8,4.2
+42,LTU,4.8,5.0,5.9,5.9
+43,KWT,4.7,4.5,4.9,3.9
+44,ZAF,4.5,4.5,4.4,4.3
+45,CZE,4.3,4.6,5.6,5.7
+46,GRC,4.3,3.5,4.6,4.8
+47,NAM,4.3,4.4,5.3,5.1
+48,SVK,4.3,4.3,5.1,5.0
+49,CRI,4.2,5.3,5.5,5.9
+50,SLV,4.2,3.6,3.9,3.3
+51,LVA,4.2,4.3,5.6,5.8
+52,MUS,4.2,5.4,5.3,5.0
+53,BGR,4.0,3.6,4.1,4.3
+54,COL,4.0,3.5,3.7,3.7
+55,SYC,4.0,4.8,5.5,6.0
+56,CUB,3.8,3.7,4.7,4.7
+57,THA,3.8,3.5,3.8,3.7
+58,TTO,3.8,3.6,3.9,4.1
+59,BRA,3.7,3.7,3.8,3.7
+60,JAM,3.6,3.3,4.1,4.4
+61,GHA,3.5,4.1,4.7,4.0
+62,MEX,3.5,3.1,3.1,2.9
+63,PAN,3.5,3.6,3.9,3.7
+64,PER,3.5,3.5,3.6,3.7
+65,TUR,3.5,4.4,4.2,4.0
+66,BFA,3.4,3.1,3.8,4.2
+67,HRV,3.4,4.1,5.1,4.9
+68,EGY,3.4,3.1,3.6,3.2
+69,LSO,3.4,3.5,4.4,4.2
+70,POL,3.4,5.3,6.3,6.0
+71,SAU,3.4,4.7,5.2,4.9
+72,SYR,3.4,2.5,1.8,1.4
+73,LAO,3.3,2.1,2.5,2.9
+74,CHN,3.2,3.5,3.7,4.1
+75,MAR,3.2,3.4,3.6,4.0
+76,SEN,3.2,2.9,4.4,4.5
+77,LKA,3.2,3.2,3.7,3.8
+78,LBN,3.1,2.5,2.8,2.8
+79,RWA,3.1,4.0,5.4,5.5
+80,DOM,3.0,3.0,3.3,2.9
+81,MNG,3.0,2.7,3.9,3.6
+82,ARM,2.9,2.6,3.5,3.5
+83,BEN,2.9,2.8,3.7,3.9
+84,BIH,2.9,3.2,3.8,3.8
+85,GAB,2.9,2.8,3.4,3.2
+86,IND,2.9,3.3,3.8,4.0
+87,IRN,2.9,2.2,2.7,3.0
+88,MLI,2.9,2.7,3.5,3.1
+89,MDA,2.9,2.9,3.3,3.1
+90,TZA,2.9,2.7,3.0,3.6
+91,DZA,2.8,2.9,3.6,3.3
+92,ARG,2.8,2.9,3.2,3.9
+93,MDG,2.8,2.6,2.8,2.4
+94,MWI,2.8,3.4,3.1,3.1
+95,MOZ,2.8,2.7,3.1,2.5
+96,GMB,2.7,3.2,2.8,3.0
+97,MKD,2.7,4.1,4.2,3.5
+98,YEM,2.7,2.2,1.8,1.6
+99,BLR,2.6,2.5,3.2,4.4
+100,ERI,2.6,2.6,1.8,2.0
+101,HND,2.6,2.4,3.1,2.9
+102,KAZ,2.6,2.9,2.8,3.1
+103,NIC,2.6,2.5,2.7,2.6
+104,UKR,2.6,2.4,2.7,3.0
+105,VNM,2.6,2.7,3.1,3.5
+106,ZMB,2.6,3.0,3.8,3.7
+107,ZWE,2.6,2.4,2.1,2.2
+108,AFG,2.5,1.4,1.1,1.5
+109,BOL,2.5,2.8,3.4,3.3
+110,ECU,2.5,2.5,3.2,3.2
+111,GTM,2.5,3.2,2.8,2.8
+112,GUY,2.5,2.7,2.9,3.8
+113,LBY,2.5,2.2,1.6,1.7
+114,NPL,2.5,2.2,2.7,3.1
+115,PHL,2.5,2.4,3.5,3.4
+116,UGA,2.5,2.5,2.5,2.6
+117,ALB,2.4,3.3,3.6,3.8
+118,NER,2.4,2.6,3.4,3.3
+119,RUS,2.4,2.1,2.9,2.9
+120,SLE,2.4,2.4,2.9,3.0
+121,BDI,2.3,1.8,2.1,2.2
+122,KHM,2.3,2.1,2.1,2.1
+123,COG,2.3,2.1,2.3,2.1
+124,GEO,2.3,3.8,5.2,5.6
+125,KGZ,2.3,2.0,2.8,2.9
+126,PNG,2.3,2.1,2.5,2.9
+127,VEN,2.3,1.5,1.7,1.8
+128,AZE,2.2,2.4,2.9,3.1
+129,CMR,2.2,2.2,2.7,2.5
+130,ETH,2.2,2.7,3.3,3.5
+131,IDN,2.2,2.8,3.6,3.7
+132,IRQ,2.2,1.5,1.6,1.8
+133,LBR,2.2,3.3,3.7,3.1
+134,UZB,2.2,1.6,1.9,2.2
+135,COD,2.1,2.0,2.2,2.1
+136,KEN,2.1,2.1,2.5,2.8
+137,PAK,2.1,2.3,3.0,3.2
+138,PRY,2.1,2.2,2.7,2.9
+139,SOM,2.1,1.1,0.8,0.9
+140,SDN,2.1,1.6,1.2,1.6
+141,TJK,2.1,2.1,2.6,2.1
+142,AGO,2.0,1.9,1.5,1.9
+143,CIV,1.9,2.2,3.2,3.6
+144,NGA,1.9,2.4,2.6,2.7
+145,HTI,1.8,2.2,1.7,2.2
+146,MMR,1.8,1.4,2.2,3.0
+147,TKM,1.8,1.6,1.8,1.9
+148,BGD,1.7,2.4,2.5,2.8
+149,TCD,1.7,1.7,2.2,2.0
