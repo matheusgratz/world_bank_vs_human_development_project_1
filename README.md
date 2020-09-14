@@ -70,15 +70,15 @@ In our case, the Transparency website has the database already in CSV, we loaded
 
 ### Results <a name="results"></a>
 
-![](images/Slide1.png)
-![](images/Slide2.png)
-![](images/Slide3.png)
-![](images/Slide4.png)
-![](images/Slide5.png)
-![](images/Slide6.png)
-![](images/Slide7.png)
-![](images/Slide8.png)
-![](images/Slide9.png)
+![](images/Slide1.PNG)
+![](images/Slide2.PNG)
+![](images/Slide3.PNG)
+![](images/Slide4.PNG)
+![](images/Slide5.PNG)
+![](images/Slide6.PNG)
+![](images/Slide7.PNG)
+![](images/Slide8.PNG)
+![](images/Slide9.PNG)
 
 ---
 # Thank you!
