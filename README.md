@@ -3,10 +3,10 @@
 
 
 Group:
-- Adriana Avalos
-- Levi Rodríguez
-- Luis Goldaracena
-- Matheus Gratz
+- Adriana Avalos (adriana.avalos.vargas@gmail.com)
+- Levi Rodríguez (angelevirdz@gmail.com)
+- Luis Goldaracena (luisgoldaracena@hotmail.com)
+- Matheus Gratz (matheusgratz@gmail.com)
 
 ---
 
