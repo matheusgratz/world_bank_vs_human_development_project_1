@@ -69,6 +69,7 @@ In our case, the Transparency website has the database already in CSV, we loaded
 ---
 
 ### Results <a name="results"></a>
+
 ![](images/Slide1.png)
 ![](images/Slide2.png)
 ![](images/Slide3.png)
@@ -78,5 +79,6 @@ In our case, the Transparency website has the database already in CSV, we loaded
 ![](images/Slide7.png)
 ![](images/Slide8.png)
 ![](images/Slide9.png)
+
 ---
 # Thank you!
