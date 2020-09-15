@@ -9,6 +9,7 @@ Group:
 - Matheus Gratz (matheusgratz@gmail.com)
 
 ---
+#### What's the project about?
 
 Nowadays there is a lot of data about global economic growth by nations and the wellbeing of their habitants. 
 
