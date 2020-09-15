@@ -17,7 +17,7 @@ Therefore, a natural question is how do economic growth impact on wellbeing.
 
 In cases where no correlation can be obtained between these two factors, we can look for other indexes (such as Corruption Index) that might help us to understand this kind of behavior.
 
-#### Does economic growth impact on wellbeing?
+#### So the main question is... Does economic growth impact on wellbeing?
 ---
 List of contents (click to go to):
 
